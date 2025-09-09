@@ -19,7 +19,7 @@ The analysis is based on data obtained from Sumit Mart's internal databases. The
 
 ## ScreenShoot
 
- | Page 1 | | Page 2 | | Page 3 |
+
 
  ### Page 1-Intro
 
