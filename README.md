@@ -21,8 +21,15 @@ The analysis is based on data obtained from Sumit Mart's internal databases. The
 
  | Page 1 | | Page 2 | | Page 3 |
 
- ./Sumit_Mart/Screenshoot/Page 1.png | ./Sumit_Mart/Screenshoot/Page 2.png | ./Sumit_Mart/Screenshoot/Page 3.png
+ ### Page 1-Intro
 
+ ![Page 1](./Sumit_Mart/Screenshoot/Page%201.png)
+
+ ### Page 2 – Finance View
+![Page 2](./Sumit_Mart/Screenshoot/Page%202.png)
+
+### Page 3 – Campaign Analysis
+![Page 3](./Sumit_Mart/Screenshoot/Page%203.png)
 
 
 ## Business Requests
