@@ -21,7 +21,7 @@ The analysis is based on data obtained from Sumit Mart's internal databases. The
 
  | Page 1 | | Page 2 | | Page 3 |
 
- 
+ ./Sumit_Mart/Screenshoot/Page 1.png | ./Sumit_Mart/Screenshoot/Page 2.png | ./Sumit_Mart/Screenshoot/Page 3.png
 
 
 
